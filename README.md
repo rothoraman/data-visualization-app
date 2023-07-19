@@ -24,7 +24,7 @@ run on your machine:
 clone project
 
 ```
-git clone https://github.com/](https://github.com/rothoraman/data-visualization-app/
+git clone https://github.com/rothoraman/data-visualization-app/
 ```
 
 go to projet
